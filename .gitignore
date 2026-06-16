@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Local notes / drafts
+NOTES.md
+DRAFTS/
+.local/
+
+# Test outputs
+test-outputs/
+*.test.md
